@@ -10,18 +10,33 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
 ### Screenshot
 
-![Solutions ScreenShot](./images/solution.png)
+![Solutions ScreenShot](https://github.com/sahil4512/qr-code-frontend-challenge/blob/master/images/solution.png)
 
 ### Links
 
-- Solution URL: [Solution](https://www.frontendmentor.io/solutions/qr-code-component-rJPVtH775)
 - Live Site URL: [Live Demo](https://vermillion-bavarois-855b58.netlify.app/)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+
+### Useful resources
+
+- [Flexbox Froggy](https://flexboxfroggy.com/) - Used this game lean more about flexbox.
+- [CSS Battle](https://cssbattle.dev/) - This will definitely help your CSS skills to develop.
+
+## Author
+
+- Codepen- [sahil4512](https://codepen.io/sahil4512)
+- Frontend Mentor - [@sahil4512](https://www.frontendmentor.io/profile/sahil4512)
+- Twitter - [@sahil_4512](https://www.twitter.com/sahil_4512)
