@@ -23,5 +23,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Solution](https://www.frontendmentor.io/solutions/qr-code-component-rJPVtH775){target="\_blank" rel="noopener"}
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/qr-code-component-rJPVtH775)
 - Live Site URL: [Live Demo](https://vermillion-bavarois-855b58.netlify.app/)
