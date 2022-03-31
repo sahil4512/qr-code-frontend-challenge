@@ -22,5 +22,5 @@ The designs were created to the following widths:
 
 ### Font
 
-- Family: [Outfit](https://fonts.google.com/specimen/Outfit)
+- Family: [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono#standard-styles)
 - Weights: 400, 700
